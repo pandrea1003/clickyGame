@@ -1,0 +1,39 @@
+[
+    {
+    "image": "Bob.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Gene.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Jimmy.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Linda.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Louise.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Morty.jpeg",
+    "beenClicked": false
+}, {
+    "image": "MrFan.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Rich.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Tammy.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Teddy.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Tina.jpeg",
+    "beenClicked": false
+}, {
+    "image": "Sister.jpeg",
+    "beenClicked": false
+}
+]
